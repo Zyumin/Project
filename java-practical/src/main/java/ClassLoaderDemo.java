@@ -1,5 +1,5 @@
 /**
- * todo 写点注释
+ * 类加载获取
  *
  * @author zhengyumin
  * @create 2019-07-07 00:19
@@ -11,7 +11,14 @@ public class ClassLoaderDemo {
         System.out.println(String.class);
         System.out.println(String.class.getClassLoader());
         System.out.println(Integer.class.getClassLoader());
-
+        /**
+         *
+         * result
+         *  sun.misc.Launcher$AppClassLoader@312b1dae
+            class java.lang.String
+            null
+            null
+         */
     }
 
 }

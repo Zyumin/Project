@@ -17,11 +17,7 @@ public class URLDemo {
 
         URLConnection c = url.openConnection();
 
-
-
         InputStream in = c.getInputStream();
-
-//        InputStream in = url.openStream();
 
         ByteArrayOutputStream output = new ByteArrayOutputStream();
         byte[] buffer = new byte[1024];

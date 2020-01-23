@@ -3,6 +3,9 @@ package net;
 import java.net.URI;
 
 /**
+ *
+ * URI：Uniform Resource Identifier，统一资源标识符
+   URL：Uniform Resource Location统一资源定位符
  * @author zhengyumin
  * @description todo 写点注释
  * @date 2019-09-30 5:18 PM
