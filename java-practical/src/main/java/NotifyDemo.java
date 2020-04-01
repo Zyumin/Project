@@ -1,5 +1,5 @@
 /**
- * todo 写点注释
+ *  等待通知模型
  *
  * @author zhengyumin
  * @create 2019-07-22 16:52
